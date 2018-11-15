@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+ <!--   <item
+        android:id="@+id/presetId"
+        android:title=" Preset Colors"
+        app:showAsAction="always" />
+ -->
+
+
+
+<!--
+
+<item
+        android:id="@+id/zoomInId"
+        android:icon="@drawable/zoomin"
+        android:title="zoom in"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/zoomOutId"
+        android:icon="@drawable/zoom_out"
+        android:title="zoom out"
+        android:visible="true"
+        app:showAsAction="always" />
+
+      <item
+           android:id="@+id/saveId"
+           android:icon="@android:drawable/ic_menu_save"
+           android:title="Save" />
+      <item
+          android:id="@+id/loadImages"
+          android:icon="@android:drawable/ic_menu_save"
+          android:title="Load Images" />
+              <item
+        android:id="@+id/erase"
+        android:icon="@drawable/eraser1"
+        android:title="Eraser"
+        android:visible="true"
+        app:showAsAction="always" />
+
+
+-->
+    <item
+        android:id="@+id/colorId"
+        android:icon="@drawable/color_lens"
+        android:title="colors"
+        android:visible="true"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/lineWidthId"
+        android:icon="@drawable/stroke_width"
+        android:title="Line Width"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/eraseId"
+
+        android:icon="@android:drawable/editbox_dropdown_light_frame"
+        android:title="Eraser"
+        android:visible="true"
+        app:showAsAction="always" />
+
+
+
+    <item
+        android:id="@+id/clearId"
+        android:title="Clear" />
+
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Draw Your Thoughts</string>
+    <string name="set_width">Set Width</string>
+    <string name="label_alpha">Alpha</string>
+    <string name="label_blue">Blue</string>
+    <string name="label_green">Green</string>
+    <string name="label_red">Red</string>
+    <string name="set_color">Set Color</string>
+    <string name="empty_string" />
+    <string name="set_eraser_width">Set Eraser Width</string>
+</resources>
